@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeedmapsAndroidCodeChallenge</string>
+    <string name="main_activity_header_text">Showing results for </string>
+    <string name="recycler_item_rating_text">/5.0</string>
+    <string name="recycler_item_imageView_content_description">Business Marketing Image or Logo</string>
+    <string name="http_error_message">Oops, something went wrong and the service return a </string>
+    <string name="search_text">Search</string>
+</resources>
